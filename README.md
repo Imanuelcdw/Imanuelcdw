@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imanuelcdw
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me icrucifixio@gmail.com
 
 <!---
